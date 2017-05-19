@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base/Base.iml" filepath="$PROJECT_DIR$/Base/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapitalOne/CapitalOne.iml" filepath="$PROJECT_DIR$/CapitalOne/CapitalOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CitiBank/CitiBank.iml" filepath="$PROJECT_DIR$/CitiBank/CitiBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finance.iml" filepath="$PROJECT_DIR$/Finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetLife/MetLife.iml" filepath="$PROJECT_DIR$/MetLife/MetLife.iml" />
+    </modules>
+  </component>
+</project>
